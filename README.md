@@ -13,6 +13,7 @@ Module: Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, SQL, Data Wrangling, 
 
 # Education
 1. Master of Science (MSc.), Applied Artificial Intelligence
+ 
   Centre for Autonomous and Cyber-Physical Systems, Cranfield University, United Kingdom.
 Module: Statistical Learning, Deep Learning, Computer Vision, Search & Optimisation, Intelligent Agents, Bayesian Techniques, Systems Engineering, Coding and Development (Python & MATLAB), Data Visualisation and Analytics, Reinforcement Learning, AI Research.
 
@@ -21,4 +22,5 @@ Master Thesis: Improving Object Detection in Aerial Images using YOLOv5
 Group Design Peoject: Detecting Heart Failure in Dense Area  using Computer Vision 
 
 2. Master of Business Administration: Marketing and Finance
+
   Science and Research Tehran University, Tehran IRAN.
