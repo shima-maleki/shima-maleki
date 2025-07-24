@@ -1,27 +1,66 @@
-# Hey! 👋
+# 👋 Hi, I'm Shima Maleki
 
-I’m Shima Maleki, a Machine Learning and Data Science practitioner looking for a role in Data Science/Machine learning engineer Graduate role.
+🎯 **Aspiring Data Analyst / Data Scientist**  
+🎓 MSc in Applied Data Science and AI | 🛠️ Freelance Data Analyst | 📊 Data Science Bootcamp Graduate  
 
-💞️ I’m passionate about Deep Learning and AI technologies.
-🌱 I’m currently working on Machine Learning Projects to improvr Machine Learning and Data Science skills.
-👀 I’m looking a Data Scientist Role where I can apply knowledge and skills I have leanrned from 16+ years of experience in automotive industry, master's degree in AI, Data Science Bootcamp and various personal projects and certifications.
+---
 
-# Experience
-Data Science BootCamp
-  HyperionDev, UK
-Module: Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, SQL, Data Wrangling, Data Analysis, Data Visualisation, Machine Learning - Supervised and Unsupervised Learning, Data Story telling & presentations.
+## 💡 About Me
 
-# Education
-## Master of Science (MSc.), Applied Artificial Intelligence
- 
-Centre for Autonomous and Cyber-Physical Systems, Cranfield University, United Kingdom.
+I'm a data-driven problem solver with a passion for transforming raw data into actionable insights. With hands-on experience in freelancing, internships, and academic research, I’m actively seeking junior roles in **Data Science** and **Data Analytics** where I can apply my skills in real-world business contexts.
 
-Module: Statistical Learning, Deep Learning, Computer Vision, Search & Optimisation, Intelligent Agents, Bayesian Techniques, Systems Engineering, Coding and Development (Python & MATLAB), Data Visualisation and Analytics, Reinforcement Learning, AI Research.
+---
 
-Master Thesis: Improving Object Detection in Aerial Images using YOLOv5
+## 🔧 Technical Skills
 
-Group Design Peoject: Detecting Heart Failure in Dense Area  using Computer Vision 
+- **Languages & Tools:** Python, SQL, T-SQL, Power BI, Excel, Jupyter, Git  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, DAX, Power Query  
+- **Cloud & Databases:** Azure SQL, AWS RDS, MySQL, PostgreSQL  
+- **Focus Areas:** Data Cleaning, EDA, Predictive Modeling, Feature Engineering, Visualization, Business Intelligence  
 
-## Master of Business Administration: Marketing and Finance
+---
 
-  Science and Research Tehran University, Tehran IRAN.
+## 💼 Experience Snapshot
+
+### 📊 Freelance Data Analyst (Feb 2025 – Present)
+- Built automated BI dashboards for small businesses, reducing reporting time by up to 60%
+- Helped clients uncover customer retention patterns, boosting repeat purchases by 12%
+
+### 📈 Data Analytics Intern – AI Core (Sep 2024 – Feb 2025)
+- Developed Power BI dashboards from Azure SQL & Excel to track KPIs and trends
+- Delivered insights that cut reporting time by 40% and improved stakeholder decision-making
+
+---
+
+## 🎓 Education
+
+### Cranfield University – MSc in Applied Artificial Intelligence  
+Modules: Deep Learning, Statistical Learning, Computer Vision, Search & Optimisation, Data Visualisation  
+- **Thesis:** Object Detection in Aerial Images using YOLOv5  
+- **Group Project:** Heart Failure Detection in Dense Areas via Computer Vision
+
+### HyperionDev Data Science Bootcamp  
+Projects in Python, Pandas, SQL, Machine Learning, Data Visualisation, and Storytelling
+
+---
+
+## 🏆 Certifications & Awards
+
+- AWS Machine Learning Nanodegree – Udacity  
+- Machine Learning Specialization – Stanford University  
+- AI Programming with Python – Udacity  
+- **Top 3 Capstone Project** – HyperionDev (380+ participants)  
+- **Certificate of Excellence** – Michael Kors  
+
+---
+
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shmkx7/)  
+- 💻 [Portfolio Website (coming soon)](#) 
+- 📬 shimamaleki95@yahoo.com  
+
+---
+
+Thanks for stopping by! 🚀  
+Feel free to check out my [Projects](#) and ⭐️ any that resonate with you!
