@@ -56,7 +56,7 @@ Projects in Python, Pandas, SQL, Machine Learning, Data Visualisation, and Story
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shmkx7/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/malekishima/)  
 - 💻 [Portfolio Website (coming soon)](#) 
 - 📬 shimamaleki95@yahoo.com  
 
