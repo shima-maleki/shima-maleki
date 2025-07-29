@@ -11,6 +11,35 @@ I'm a data-driven problem solver with a passion for transforming raw data into a
 
 ---
 
+## 📊 Project Portfolio
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/image2.png" width="350"/><br/>
+      <sub>
+        <strong>Sales Performance Dashboard</strong><br/>
+        Power BI | Interactive KPIs, revenue trends, and sales target tracking
+      </sub>
+    </td>
+    <td align="center">
+      <img src="./images/image3.png" width="350"/><br/>
+      <sub>
+        <strong>Vendor Performance Analysis</strong><br/>
+        Power BI | Segmentation, vendor ranking, and customer insights
+      </sub>
+    </td>
+    <td align="center">
+      <img src="./images/portfolio1.png" width="350"/><br/>
+      <sub>
+        <strong>Telecom Customer Churn Analysis</strong><br/>
+        End-to-end ML pipeline & Power BI dashboard for churn prediction and retention strategy
+      </sub>
+    </td>
+  </tr>
+</table>
+
+
 ## 🔧 Technical Skills
 
 - **Languages & Tools:** Python, SQL, T-SQL, Power BI, Excel, Jupyter, Git  
