@@ -17,7 +17,7 @@ I'm a data-driven problem solver with a passion for transforming raw data into a
   <tr>
     <td align="center">
       <a href="https://github.com/shima-maleki/Sales_Data_Analysis_Power_BI" target="_blank">
-        <img src="./images/image2.png" width="350"/><br/>
+        <img src="./images/image2.png" width="400"/><br/>
         <sub>
           <strong>Sales Performance Dashboard</strong><br/>
           Power BI | Interactive KPIs, revenue trends, and sales target tracking
@@ -26,7 +26,7 @@ I'm a data-driven problem solver with a passion for transforming raw data into a
     </td>
     <td align="center">
       <a href="https://github.com/shima-maleki/Vendor_Performance_Analysis" target="_blank">
-        <img src="./images/image3.png" width="350"/><br/>
+        <img src="./images/image3.png" width="400"/><br/>
         <sub>
           <strong>Vendor Performance Analysis</strong><br/>
           Power BI | Segmentation, vendor ranking, and customer insights
@@ -35,7 +35,7 @@ I'm a data-driven problem solver with a passion for transforming raw data into a
     </td>
     <td align="center">
       <a href="https://github.com/shima-maleki/PowerBI-Customer-Churn-Analysis" target="_blank">
-        <img src="./images/portfolio1.png" width="350"/><br/>
+        <img src="./images/portfolio1.png" width="400"/><br/>
         <sub>
           <strong>Telecom Customer Churn Analysis</strong><br/>
           End-to-end ML pipeline & Power BI dashboard for churn prediction and retention strategy
